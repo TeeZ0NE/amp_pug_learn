@@ -20,6 +20,7 @@ html(amp, lang="en")
     script(async, src="https://cdn.ampproject.org/v0.js")
     style(amp-custom)
       include style.css
+    // <?php readfile( getcwd() . "/style.css"); ?>
   body
     h1 This is a Jade based AMP page. Ad
     p some text 4 AMP project &nbsp;
