@@ -1,0 +1,13 @@
+{
+"author":"Vadim Kov",
+  "license": "MIT",
+  "description": "learning AMP Project and Pug",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pug-php/pug"
+  },
+  "dependencies": {
+    "jstransformer": "^1.0.0",
+    "pug-cli": "^1.0.0-alpha6"
+  }
+}
